@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 82a0960..6a06eba 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,6 +8,6 @@[m
+   <body>[m
+     <h1>git Repository</h1>[m
+     <p>something great</p>[m
+[31m-    <p>the bad, the ugly, the poor</p>[m
+[32m+[m[32m    <h2>Main Branch</h2>[m
+   </body>[m
+ </html>[m
